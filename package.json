@@ -1,6 +1,7 @@
 {
   "name": "musicguess",
   "private": true,
+  "license": "UNLICENSED",
   "version": "1.0.0",
   "description": "Music Guess – Musik-Zeitleisten-Quiz als Progressive Web App",
   "type": "module",

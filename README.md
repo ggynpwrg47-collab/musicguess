@@ -319,5 +319,12 @@ Handy schicken und dort unter „Eigene Song-Liste anlegen → CSV-/Textdatei“
 
 ## Lizenz und Hinweise
 
+**© 2026 ggynpwrg47-collab. Alle Rechte vorbehalten.** Der Code ist öffentlich einsehbar, aber **nicht**
+frei nutzbar. Ohne vorherige schriftliche Zustimmung darf er weder verwendet noch kopiert, verändert oder
+weitergegeben werden, auch nicht in Teilen. Einzelheiten stehen in der Datei [`LICENSE`](LICENSE).
+
+Das öffentliche Repository darf auf GitHub angesehen und geforkt werden; das verlangen die
+GitHub-Nutzungsbedingungen. Ein Fork gibt aber kein Recht, den Code zu nutzen oder weiterzugeben.
+
 Music Guess ist ein unabhängiges Projekt ohne Verbindung zu Spotify oder anderen Marken. Das Beispiel-Deck
 enthält nur Fakten (Interpret, Titel, Jahr), keine Audiodaten und keine Cover.
