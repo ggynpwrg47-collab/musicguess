@@ -1,0 +1,42 @@
+{
+  "format": "musicguess-deck",
+  "version": 1,
+  "name": "Roadtrip Mix",
+  "exportedAt": "2026-10-12T16:01:04.879Z",
+  "songs": [
+    {
+      "id": "s_0f5c2526",
+      "title": "Africa",
+      "artist": "Toto",
+      "year": 1982,
+      "yearSource": "list",
+      "date": "1982",
+      "precision": "year",
+      "warnings": [],
+      "confirmed": false,
+      "link": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "id": "s_d394ebc7",
+      "title": "99 Luftballons",
+      "artist": "Nena",
+      "year": 1983,
+      "yearSource": "list",
+      "date": "1983",
+      "precision": "year",
+      "warnings": [],
+      "confirmed": false
+    },
+    {
+      "id": "s_6ddc5375",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "year": 1975,
+      "yearSource": "list",
+      "date": "1975",
+      "precision": "year",
+      "warnings": [],
+      "confirmed": false
+    }
+  ]
+}

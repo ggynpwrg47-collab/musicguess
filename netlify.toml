@@ -1,0 +1,9 @@
+# Netlify übernimmt diese Einstellungen automatisch – im Netlify-Dashboard muss nichts eingetragen werden.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Sicherheits-Header und „noindex“ stehen in public/_headers (wird nach dist/ kopiert).

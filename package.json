@@ -1,0 +1,32 @@
+{
+  "name": "musicguess",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Music Guess – Musik-Zeitleisten-Quiz als Progressive Web App",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^5.0.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
